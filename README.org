@@ -1,10 +1,12 @@
 * Valuable places
 born place: -160 80 200
 underworld: -20 73 25
-village: 330 70 210
+village1: 330 70 210
+village2: 300 70 -400
 hole: 190 50 400
 forest:-486 83 -73
 small hole: -269 63 -281
 desert: -76 82 -402
 sea: 163 73 -578
-lava: 229 67 -400
+lava1: 229 67 -400
+lava2: 292 67 72
